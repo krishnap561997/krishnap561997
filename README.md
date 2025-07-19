@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krishnaprasad K.A.
-- 👀 I’m interested in Fluid Mechanics, Multiphase Flows and High Performance Computing.
-- 🌱 I’m currently pursuing my Ph.D. at the University of Florida under Dr. S. Balachandar.
-- 📫 How to reach me : krishnap.kalivel@ufl.edu
+- 👀 I’m interested in Turbulence, Statistics, Multiphase Flows, and High Performance Computing.
+- 🌱 I received my Doctorate at the University of Florida working under Prof. S. Balachandar.
+- 📫 How to reach me: krishnap.kalivel@ufl.edu, krishnap561997@gmail.com
 
 <!---
 krishnap561997/krishnap561997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
